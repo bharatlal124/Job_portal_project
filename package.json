@@ -1,16 +1,16 @@
 {
-  "name": "inventory_app",
+  "name": "easily_job Portal",
   "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "npm server.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bharatlal",
   "license": "ISC",
   "dependencies": {
     "bootstrap-icons": "^1.10.5",
