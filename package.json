@@ -2,7 +2,7 @@
   "name": "easily_job Portal",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the Easily Job Portal - Node JS project using Node js, express js, JavaScript, html, CSS, based on MVC architecture",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
