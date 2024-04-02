@@ -26,6 +26,9 @@ This is a simple guide on how to run this project. Follow the instructions below
 
 **http://localhost:3200**
 
+## Live Link:
+https://job-portal-project-068u.onrender.com/
+
 ## Overview of this project :
 
 #Home Page -
